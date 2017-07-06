@@ -3,7 +3,7 @@
     "description": "common command pattern for any data-centered actions.",
     "type": "library",
     "require": {
-        "laravel/framework": "5.4.0"
+        
     },
     "authors": [
         {
